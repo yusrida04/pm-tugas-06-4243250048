@@ -24,7 +24,7 @@ Simpan screenshot hasil aplikasi pada folder `screenshots/` dengan nama berikut:
 ### Ponsel – halaman daftar
 ![Daftar ponsel](screenshots/daftar-ponsel.png)
 
-### Ponsel – halaman detail
+### Ponsel – halaman favorit
 ![Detail ponsel](screenshots/detail-ponsel.png)
 
 ### Tablet – halaman daftar
